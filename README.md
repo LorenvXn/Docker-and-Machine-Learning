@@ -10,7 +10,8 @@ All I did it was to modify one of his examples, and make it run in a docker with
 1) For Docker creation: 
 
 
-root@tron:~/wildy# docker build -t python:2 .
+root@tron:~/wildy# docker build -t python:2 . \
+
 root@tron:~/wildy# docker run python:2 python --version
 Python 2.7.12
 root@tron:~/wildy# docker run python:2 python /src/testish.py
