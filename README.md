@@ -19,9 +19,10 @@ root@tron:~/wildy# docker run python:2 python /src/testish.py
 2) Go at mentioned docker IP, port 9000 in the docker's browser (check pic, as well):
 
 root@tron:~/wildy# docker run python:2 python /src/testish.py
-...snip.....
-============================================================================================
+
+[snip]
+
 Management interface active. Browse to http://172.17.0.2:9000 to view all plots.
 Alternatively, browse to http://172.17.0.2:9000/figure1 etc. to view individual figures.
-============================================================================================
 
+[snip]
