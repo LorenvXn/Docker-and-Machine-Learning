@@ -1,8 +1,8 @@
 # Docker-and-Machine-Learning 
-Embeding Python/Tkinter in browser, by using  mplh5canvas
+Embedding Python/Tkinter in browser, by using  mplh5canvas
 
 For this example, the code from the amazing book of Sebastian Rashka "Python Machine Learning" has been used. 
-All I did it was to modify one of his examples, and make it run into a docker without depending on IPython or Python/Tkinter.
+All I did it was to modify one of his examples, and make it run in a docker without depending on IPython or Python/Tkinter.
 
 
 
