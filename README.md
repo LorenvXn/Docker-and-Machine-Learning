@@ -29,3 +29,6 @@ Management interface active. Browse to http://172.17.0.2:9000 to view all plots.
 Alternatively, browse to http://172.17.0.2:9000/figure1 etc. to view individual figures.
 
 [snip]
+
+![ScreenShot](https://github.com/Satanette/test/blob/master/pic_11.png)
+![ScreenShot](https://github.com/Satanette/test/blob/master/pic_22.png)
