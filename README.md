@@ -19,7 +19,7 @@ root@tron:~/wildy# ``docker run python:2 python /src/testish.py``
 
 
 
-2) Go at mentioned docker IP, port 9000 in the docker's browser (check pic, as well):
+2) Go to  mentioned docker IP, port 9000 in the docker's browser (check pic, as well):
 
 root@tron:~/wildy# ``docker run python:2 python /src/testish.py``
 
